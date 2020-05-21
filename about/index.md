@@ -7,4 +7,6 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+Hi, I'm Wassim. I'm an open-source author and maintainer. I build tools and apps, contribute to open-source projects. You may have seen some of my creations, such as https://xlayers.dev, https://hexa.run and https://ngx.tools.
+
+Follow me at https://twitter.com/manekinekko.
