@@ -75,3 +75,19 @@ DEBUG=* npx eleventy
   * `_includes/layouts/home.njk`: the home page template (wrapped into `base.njk`)
   * `_includes/layouts/post.njk`: the blog post template (wrapped into `base.njk`)
 * `_includes/postlist.njk` is a Nunjucks include and is a reusable component used to display a list of all the posts. `index.njk` has an example of how to use it.
+
+
+## Deploy to Azure Static Web Apps
+
+Follow the [Quickstart](https://bit.ly/2ABy9Cb) guide for Azure Static Web Apps and use the following configuration:
+
+![screenshot-1590053776413](https://user-images.githubusercontent.com/1699357/82546623-aec82100-9b58-11ea-81b2-e6a25760a6cf.png)
+
+![screenshot-1590053798121](https://user-images.githubusercontent.com/1699357/82546619-ad96f400-9b58-11ea-95a3-d76a533ccfb9.png)
+
+![screenshot-1590053849831](https://user-images.githubusercontent.com/1699357/82546625-af60b780-9b58-11ea-8e47-41f847ac6232.png)
+
+After the first build is done. You should get the generated URL for your app (you can also view this URL from the Azure Portal):
+![screenshot-1590054688264](https://user-images.githubusercontent.com/1699357/82547135-87258880-9b59-11ea-9959-e04faff98f78.png)
+
+
