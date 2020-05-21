@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Eleventy + Azure Static Web Apps",
+  "url": "https://zealous-wave-0ec9a1203.azurestaticapps.net/",
+  "description": "Building and deploy Eleventy on Azure Static Web Apps",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Building and deploy Eleventy on Azure Static Web Apps",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://zealous-wave-0ec9a1203.azurestaticapps.net/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Wassim Chegham",
+    "email": "hi@wassim.dev"
   }
 }
