@@ -2,12 +2,13 @@
 
 A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
 
-[![Build Status](https://travis-ci.org/11ty/eleventy-base-blog.svg?branch=master)](https://travis-ci.org/11ty/eleventy-base-blog)
+![Azure Static Web Apps CI/CD](https://github.com/manekinekko/11ty-blog-swa/workflows/Azure%20Static%20Web%20Apps%20CI/CD/badge.svg)
 
 ## Demos
 
 * [Netlify](https://eleventy-base-blog.netlify.com/)
 * [GitHub Pages](https://11ty.github.io/eleventy-base-blog/)
+* [Azure Static Web Apps](https://zealous-wave-0ec9a1203.azurestaticapps.net/)
 
 ## Deploy this to your own site
 
@@ -15,6 +16,7 @@ These builders are amazing—try them out to get your own Eleventy site in a few
 
 * [Get your own Eleventy web site on Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/11ty/eleventy-base-blog)
 * [Get your own Eleventy web site on Vercel](https://vercel.com/import/project?template=11ty%2Feleventy-base-blog)
+* [Get your own Eleventy web site on Azure](#deploy-on-azure-static-web-apps)
 
 ## Getting Started
 
@@ -77,7 +79,7 @@ DEBUG=* npx eleventy
 * `_includes/postlist.njk` is a Nunjucks include and is a reusable component used to display a list of all the posts. `index.njk` has an example of how to use it.
 
 
-## Deploy to Azure Static Web Apps
+## Deploy on Azure Static Web Apps
 
 Follow the [Quickstart](https://bit.ly/2ABy9Cb) guide for Azure Static Web Apps and use the following configuration:
 
