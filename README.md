@@ -90,6 +90,7 @@ Follow the [Quickstart](https://bit.ly/2ABy9Cb) guide for Azure Static Web Apps 
 ![screenshot-1590053849831](https://user-images.githubusercontent.com/1699357/82546625-af60b780-9b58-11ea-8e47-41f847ac6232.png)
 
 After the first build is done. You should get the generated URL for your app (you can also view this URL from the Azure Portal):
-![screenshot-1590054688264](https://user-images.githubusercontent.com/1699357/82547135-87258880-9b59-11ea-9959-e04faff98f78.png)
+![screenshot-1590055670147](https://user-images.githubusercontent.com/1699357/82548575-cb198d00-9b5b-11ea-9a98-215c0a5326fd.png)
+
 
 
