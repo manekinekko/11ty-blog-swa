@@ -83,14 +83,12 @@ DEBUG=* npx eleventy
 
 Follow the [Quickstart](https://bit.ly/2ABy9Cb) guide for Azure Static Web Apps and use the following configuration:
 
-![screenshot-1590053776413](https://user-images.githubusercontent.com/1699357/82546623-aec82100-9b58-11ea-81b2-e6a25760a6cf.png)
+![image](https://user-images.githubusercontent.com/1699357/113004691-1507d200-9174-11eb-84aa-bd84d15200b2.png)
 
-![screenshot-1590053798121](https://user-images.githubusercontent.com/1699357/82546619-ad96f400-9b58-11ea-95a3-d76a533ccfb9.png)
-
-![screenshot-1590053849831](https://user-images.githubusercontent.com/1699357/82546625-af60b780-9b58-11ea-8e47-41f847ac6232.png)
+![image](https://user-images.githubusercontent.com/1699357/113004921-48e2f780-9174-11eb-9a1c-43e517abdf55.png)
 
 After the first build is done. You should get the generated URL for your app (you can also view this URL from the Azure Portal):
-![screenshot-1590055670147](https://user-images.githubusercontent.com/1699357/82548575-cb198d00-9b5b-11ea-9a98-215c0a5326fd.png)
+![image](https://user-images.githubusercontent.com/1699357/113006543-c3f8dd80-9175-11eb-9d83-4e89771d9e1e.png)
 
 
 
