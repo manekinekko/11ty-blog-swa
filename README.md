@@ -81,7 +81,7 @@ DEBUG=* npx eleventy
 
 ## Deploy on Azure Static Web Apps
 
-Follow the [Quickstart](https://bit.ly/2ABy9Cb) guide for Azure Static Web Apps and use the following configuration:
+Follow the [Quickstart](https://docs.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=angular&WT.mc_id=javascript-20338-wachegha) guide for Azure Static Web Apps and use the following configuration:
 
 ![image](https://user-images.githubusercontent.com/1699357/113004691-1507d200-9174-11eb-84aa-bd84d15200b2.png)
 
